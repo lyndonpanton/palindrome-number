@@ -40,3 +40,7 @@ palindrome
 
 Constraints:
 + <pre>-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1</pre>
+
+
+## Credits
+[Leetcode Problem #9](https://leetcode.com/problems/palindrome-number/)
